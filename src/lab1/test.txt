@@ -1,0 +1,16 @@
+/*print*/
+/**9*  */
+h@ggg;
+int a=6;
+int c = 2*a;
+double _b = 3.25;
+int h = 3E+2;
+3.1E-2;
+float c= 0x6;
+String 3a = e;
+while(num!=100){num++;}
+/*9
+*9
+*/
+/**9*
+no@;

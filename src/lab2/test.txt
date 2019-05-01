@@ -1,0 +1,6 @@
+proc test;
+real a;
+i=i+1;
+if (a>0) then i = 2.2;
+while (true) do i=i+2;
+call lab2(x, z[3]);
